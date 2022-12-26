@@ -54,7 +54,7 @@ int main()
      }
     else
         printf("Data received successfully :)\n");
-        if
+        if()
 
     /*closing the queue*/    
     mq_close_er = mq_close(desd_mq_desc);
